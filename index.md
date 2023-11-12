@@ -8,7 +8,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
-### Header 3
+### Task lists
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 #### Header 4
 ##### Header 5
 ###### Header 6
